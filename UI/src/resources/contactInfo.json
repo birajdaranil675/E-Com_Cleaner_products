@@ -1,0 +1,21 @@
+{
+    "companyInfo": {
+        "name": "Nature Bright Industries",
+        "tagline": "Illuminate Your Health",
+        "logo": "/assets/logo.png"
+    },
+    "social":{
+        "email": "naturebrightindustries123@gmail.com",
+        "phone": "+919588651841",
+        "twitter": "https://twitter.com/NatureBright",
+        "facebook": "https://facebook.com/NatureBright",
+        "youTube":"https://youtube.com/NatureBright",
+        "instagram": "https://instagram.com/NatureBright"
+    },
+    "location":{
+        "address": "Rukmini Nivas, Opp. police quater, Holkar Nagar",
+        "city": "Ausa",
+        "state": "Maharashtra",
+        "zip": "413520"
+    }
+}
